@@ -14,8 +14,7 @@ source:
 
 build:
   merge_build_host: True  # [win]
-  skip: True  # [win]
-  number: 1
+  number: 2
   rpaths:
     - lib/R/lib/
     - lib/
@@ -62,7 +61,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=phylosignal
-  license: GPL-3
+  license: GPL-3.0-only
   summary: A collection of tools to explore the phylogenetic signal in univariate and multivariate
     data. The package provides functions to plot traits data against a phylogenetic
     tree, different measures and tests for the phylogenetic signal, methods to describe

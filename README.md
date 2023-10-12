@@ -3,6 +3,7 @@ About r-phylosignal-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-phylosignal-feedstock/blob/main/LICENSE.txt)
 
+
 About r-phylosignal
 -------------------
 
@@ -11,6 +12,7 @@ Home: https://CRAN.R-project.org/package=phylosignal
 Package license: GPL-3.0-only
 
 Summary: A collection of tools to explore the phylogenetic signal in univariate and multivariate data. The package provides functions to plot traits data against a phylogenetic tree, different measures and tests for the phylogenetic signal, methods to describe where the signal is located and a phylogenetic clustering method.
+
 About r-phylosignal
 -------------------
 
